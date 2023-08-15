@@ -1,0 +1,1 @@
+("8.6" ta6le ("8e4f108c7300728e07de30c64d541b4dee7c4f4f" . "7974beace40d9e5cc727934bf78db093234d9072") #"/home/jback1/Documents/cmsc430/iniquity-plus/interp.rkt" (collects #"errortrace" #"errortrace-key.rkt") (collects #"racket" #"main.rkt") (collects #"racket" #"runtime-config.rkt"))
